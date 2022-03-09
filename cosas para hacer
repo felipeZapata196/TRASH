@@ -1,0 +1,98 @@
+0.1 arreglar la base de datos y las vistas. actualmente hay una unica base de datos y los datos que se muestran en cada seccion(camisetas
+sudadera, etc) son los de toda la base de datos.
+
+1. terminar la estructura de la  pagina principal.
+
+2. mejorar la colocación de los elementos. Mejorar divs, etc.
+
+3 mejorar el diseño responsivness de la web.
+
+4. poner en cada div un producto del sidebar.
+
+
+5. crear  un top de los mejores productos que son los que apareceran. (backend)
+
+6. crear la pagina del producto
+
+7 crear seccion hombre y mujer
+
+
+
+
+    <div class="row">
+
+      <div class="col-sm" style="background-image: url(../images/chaquetaMujer.jfif)">
+       
+            
+            <div class="cat-title" >
+              <a class="enlace" tabindex="-1" href="/camisetas">
+                <h2 class="h3">
+                  
+                  CAMISETAS
+                  
+                </h2>
+              </a>
+            </div>
+      
+      </div>
+
+
+
+      
+      
+      <div class="col-sm" style="background-image: url(../images/sudadera1.jfif)">
+        
+            
+            <div class="cat-title" >
+              <a class="enlace" tabindex="-1" href="/sudaderas" >
+                <h2 class="h3">
+                  
+                   SUDADERAS
+                  
+                </h2>
+              </a>
+            </div>
+       
+      </div>
+      
+      <div class="col-sm"  style="background-image: url(../images/pantaloness.jpeg)">
+        
+            
+            <div  class="cat-title" >
+              <a  class="enlace" href="/pantalones">
+                <h2 class="h3">
+                  
+                   PANTALONES
+                  
+                </h2>
+              </a>
+            </div>
+          
+        
+      </div>
+
+      <div class="col-sm" style="background-image: url(../images/accesorios1.jfif)">
+        
+            
+            <div class="cat-title" >
+              <a class="enlace" href="/accesorios">
+                <h2 class="h3">
+                  
+                    ACCESORIOS
+                  
+                </h2>
+              </a>
+            </div>
+        
+      </div>
+      
+    </div>
+
+
+    
+
+
+     
+    </div>
+
+ 

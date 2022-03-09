@@ -1,0 +1,47 @@
+
+
+
+<header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom" id="opciones">
+  <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
+    <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap"><use xlink:href="#bootstrap"></use></svg>
+  </a>
+
+  <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+    <li><a href="#" class="nav-link px-2 link-secondary">Home</a></li>
+    <li><a href="#" class="nav-link px-2 link-dark">Features</a></li>
+    <li><a href="#" class="nav-link px-2 link-dark">Pricing</a></li>
+    <li><a href="#" class="nav-link px-2 link-dark">FAQs</a></li>
+    <li><a href="#" class="nav-link px-2 link-dark">About</a></li>
+  </ul>
+
+ 
+</header>
+
+
+
+<div class="containter-product">
+
+<div class="row"  >
+
+  <% productList.forEach(function(product) { %>
+   
+  <div class="col3"  style="margin-bottom: 10rem; ">
+
+    <div style="width: 100%; height:100%;">
+   <img  class="img-products" src="<%= product.imageCover %>" width="100%" /> 
+  </div>
+    <div class="product-title" >
+      <a class="enlace" tabindex="-1" href="/#" >
+       
+      <h2 class="h3" style="text-align: center; font-size: 0.8rem; color: darkgray;">  <%=product.model%>  </h2>
+    </a>
+        <h6 style=" text-align:  center; font-size: 0.9rem; font-weight: bolder;"><%=product.price%> €</h6>
+        <h6 style="color: grey; text-align:  center; font-size: 0.6rem;"><%=product.talla%></h6>
+    </div>
+
+</div>
+
+  <% }); %>
+</div>
+  
+</div>

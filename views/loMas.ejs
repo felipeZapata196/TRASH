@@ -1,0 +1,150 @@
+<div class="loMas"> 
+
+
+  <img  src="../images/loMas.png" width="100%" />
+  
+    <div class="white-space">
+
+    <h1 class="title-div">The most popular this month</h1>
+    </div>
+
+
+
+    <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+
+
+
+      
+      <div class="carousel-inner">
+      
+       
+        <div class="carousel-item active">
+        
+     
+                        <div class="row" style="margin-left: 2rem; margin-right: 2rem; width: 100%; height: 80vh;" >
+                          <% productList.forEach(function(product) { %>
+                          <div class="col3"  style="margin-bottom: 10rem; ">
+                        
+                            <div style="width: 100%; height:100%;">
+                              <img  class="img-products" src="<%= product.imageCover %>" width="100%" /> 
+                            </div>
+                            <div class="product-title" style="background-color: black;" >
+                              <a class="enlace" tabindex="-1" href="/#" >
+                              
+                              <h2 class="h3" style="text-align: center; font-size: 0.8rem; color: darkgray;"> hello wordl</h2>
+                              </a>
+                                <h6 style=" text-align:  center; font-size: 0.9rem; font-weight: bolder;">hello world</h6>
+                                <h6 style="color: grey; text-align:  center; font-size: 0.6rem;">hello world two</h6>
+                            </div>
+                          </div>
+                        
+
+                       
+                          <% }); %>
+
+                        </div>
+
+
+                       
+        </div>
+
+   
+        <div class="carousel-item">
+
+        
+
+                        <div class="row" style="margin-left: 2rem; margin-right: 2rem; width: 100%; height: 100%;" >
+                          <% shirtList.forEach(function(product) { %>
+                          <div class="col3"  style="margin-bottom: 10rem; ">
+                        
+                            <div style="width: 100%; height:100%;">
+                              <img  class="img-products" src="<%= product.imageCover %>" width="100%" /> 
+                            </div>
+                            <div class="product-title" >
+                              <a class="enlace" tabindex="-1" href="/#" >
+                              
+                              <h2 class="h3" style="text-align: center; font-size: 0.8rem; color: darkgray;"> </h2>
+                              </a>
+                                <h6 style=" text-align:  center; font-size: 0.9rem; font-weight: bolder;">/h6>
+                                <h6 style="color: grey; text-align:  center; font-size: 0.6rem;"></h6>
+                            </div>
+                           
+                          </div>
+                          <% }); %>
+                        </div>
+                        
+                 
+
+                      
+
+                       
+
+        </div>
+
+
+        <div class="carousel-item">
+
+         
+                          <div class="row" style="margin-left: 2rem; margin-right: 2rem; width: 100%; height: 100%;" >
+                            <% pantList.forEach(function(product) { %>
+                            <div class="col3"  style="margin-bottom: 10rem; ">
+                          
+                              <div style="width: 100%; height:100%;">
+                                <img  class="img-products" src="<%= product.imageCover %>" width="100%" /> 
+                              </div>
+                              <div class="product-title" >
+                                <a class="enlace" tabindex="-1" href="/#" >
+                                
+                                <h2 class="h3" style="text-align: center; font-size: 0.8rem; color: darkgray;"> </h2>
+                                </a>
+                                  <h6 style=" text-align:  center; font-size: 0.9rem; font-weight: bolder;">/h6>
+                                  <h6 style="color: grey; text-align:  center; font-size: 0.6rem;"></h6>
+                              </div>
+                          
+                  
+                            </div>
+                            <% }); %>
+                          </div>
+
+                        
+
+                          
+                          
+                          
+                          
+
+                            
+        </div>
+
+     
+
+
+      </div>
+
+
+
+
+      <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+
+
+
+
+
+ 
+
+</div>
+

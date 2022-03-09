@@ -1,0 +1,48 @@
+
+  <div class="encabezado">
+   
+     
+     <div class="titulo"> 
+       
+      <a href="/" style="text-decoration: none; color: #191919;">TRASH</a>
+    </div>
+
+
+
+    
+      <div class="navUser">
+
+        <% if (user) { %>
+          
+   
+          <a class="logout" a href="#" >Log Out</a>
+          <img class="nav__user-img" src="/images/users/<%= user.photo %>" alt="User photo" />
+          <a class="perfil"  a href="/me"><%= user.name.split(' ')[0] %></a>
+          <%} else { %>
+            <a class="login" a href="/login" >Login</a>
+            <a class="registro" a href="/registro" >Registrarse</a>
+           
+           
+          <% } %>
+  
+    
+    </div>
+    
+    
+    
+  </div>
+
+
+<nav class="py-2 bg-light border-bottom">
+  <div class="container d-flex flex-wrap">
+    <ul class="nav me-auto" id="options">
+      <li class="nav-item"><a href="/" class="nav-link link-dark px-2 active" aria-current="page">HOME</a></li>
+      <li class="nav-item"><a href="/camisetas" class="nav-link link-dark px-2">MEN</a></li>
+      <li class="nav-item"><a href="/sudaderas" class="nav-link link-dark px-2">WOMEN</a></li>
+      <li class="nav-item"><a href="/accesorios" class="nav-link link-dark px-2">ACCESORIOS</a></li>
+      <li class="nav-item"><a href="/" class="nav-link link-dark px-2">ABOUT</a></li>
+    </ul>
+    
+  </div>
+</nav>
+

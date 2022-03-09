@@ -1,0 +1,186 @@
+[
+    {
+        "productType": "sudaderas",
+        "model": "sudaderas negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera1.jpg"
+        
+        
+    },
+    {
+        "productType": "sudaderas",
+        "model": "sudaderas blanca basica",
+        "color": "blanco",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera2.jpg"
+        
+        
+    }, {
+        "productType": "sudaderas",
+        "model": "sudaderas azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera3.jpg"
+        
+        
+    },
+    {
+        "productType": "sudaderas",
+        "model": "sudaderas granate fit basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera4.jpg"
+        
+        
+    }, {
+        "productType": "sudaderas",
+        "model": "sudaderas regular fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera5.jpg"
+        
+        
+    }, {
+        "productType": "sudaderas",
+        "model": "sudaderas blanca relaxed fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera6.jpg"
+        
+        
+    },{
+        "productType": "sudaderas",
+        "model": "sudaderas negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera7.jpg"
+        
+        
+    },{
+        "productType": "sudaderas",
+        "model": "sudaderas azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera8.jpg"
+        
+        
+    }, {
+        "productType": "sudaderas",
+        "model": "sudaderas blanca relaxed fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera9.jpg"
+        
+        
+    },{
+        "productType": "sudaderas",
+        "model": "sudaderas negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera.10jpg"
+        
+        
+    },{
+        "productType": "sudaderas",
+        "model": "sudaderas azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera11.jpg"
+        
+        
+    }, {
+        "productType": "sudaderas",
+        "model": "sudaderas blanca relaxed fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera12.jpg"
+        
+        
+    },{
+        "productType": "sudaderas",
+        "model": "sudaderas negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera13.jpg"
+        
+        
+    },{
+        "productType": "sudaderas",
+        "model": "sudaderas azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera14.jpg"
+        
+        
+    },{
+        "productType": "sudaderas",
+        "model": "sudaderas negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera3.jpg"
+        
+        
+    },{
+        "productType": "sudaderas",
+        "model": "sudaderas azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/sudadera7.jpg"
+        
+        
+    }
+
+
+
+
+
+]

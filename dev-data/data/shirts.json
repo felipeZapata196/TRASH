@@ -1,0 +1,30 @@
+[
+  {
+    "id":0,
+    "name": "cat",
+    "size": "Large",
+    "price": 23,
+    "color": "white"
+  },
+  {
+    "id":1,
+    "name": "dog",
+    "size": "normal",
+    "price": 23,
+    "color": "white"
+  },
+  {
+    "id":3,
+    "name": "kiwi",
+    "size": "Large",
+    "price": 23,
+    "color": "black"
+  },
+  {
+    "id":3,
+    "name": "flour",
+    "size": "extra-large",
+    "price": 23,
+    "color": "white"
+  }
+]

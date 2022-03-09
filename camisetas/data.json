@@ -1,0 +1,236 @@
+[
+    {
+      "startLocation": {
+        "description": "Miami, USA",
+        "type": "Point",
+        "coordinates": [-80.185942, 25.774772],
+        "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+      },
+      "id": 0,
+      "nameProduct": "diseño gato",
+      "color": "blue",
+      "size": "L",
+     "price": "6.50",
+     "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices.",    
+      "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Natural Bridges National Monument",
+        "type": "Point",
+        "coordinates": [-109.99953, 37.629017],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Horseshoe Bend",
+        "type": "Point",
+        "coordinates": [-111.50954, 36.883269],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Death Valley National Park",
+        "type": "Point",
+        "coordinates": [-117.07399, 36.501435],
+        "day": 6
+      }
+    ], "guides": ["6145372fab7ad80654e0cec9"]
+    
+    },
+    {     "startLocation": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+        "id": 1,
+        "nameProduct": "diseño frase",
+        "color": "blue",
+        "size": "L",
+       "price": "6.50",
+       "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices.",
+       "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2973",
+          "description": "Natural Bridges National Monument",
+          "type": "Point",
+          "coordinates": [-109.99953, 37.629017],
+          "day": 1
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2972",
+          "description": "Horseshoe Bend",
+          "type": "Point",
+          "coordinates": [-111.50954, 36.883269],
+          "day": 3
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2971",
+          "description": "Death Valley National Park",
+          "type": "Point",
+          "coordinates": [-117.07399, 36.501435],
+          "day": 6
+        }
+      ],
+      "guides": ["6145372fab7ad80654e0cec9"]
+
+
+
+      },
+     
+      { 
+        "startLocation": {
+          "description": "Miami, USA",
+          "type": "Point",
+          "coordinates": [-80.185942, 25.774772],
+          "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+        },
+        "id": 2,
+        "nameProduct": "diseño fruta",
+        "color": "blue",
+        "size": "L",
+       "price": "6.50",
+       "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices.",
+       "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2973",
+          "description": "Natural Bridges National Monument",
+          "type": "Point",
+          "coordinates": [-109.99953, 37.629017],
+          "day": 1
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2972",
+          "description": "Horseshoe Bend",
+          "type": "Point",
+          "coordinates": [-111.50954, 36.883269],
+          "day": 3
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2971",
+          "description": "Death Valley National Park",
+          "type": "Point",
+          "coordinates": [-117.07399, 36.501435],
+          "day": 6
+        }
+      ],
+      "guides": ["6145372fab7ad80654e0cec9"]
+      },
+      {
+        "startLocation": {
+          "description": "Miami, USA",
+          "type": "Point",
+          "coordinates": [-80.185942, 25.774772],
+          "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+        },
+        "id": 3,
+        "nameProduct": "diseño flor",
+        "color": "blue",
+        "size": "L",
+       "price": "6.50",
+       "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices.", 
+       "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2973",
+          "description": "Natural Bridges National Monument",
+          "type": "Point",
+          "coordinates": [-109.99953, 37.629017],
+          "day": 1
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2972",
+          "description": "Horseshoe Bend",
+          "type": "Point",
+          "coordinates": [-111.50954, 36.883269],
+          "day": 3
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2971",
+          "description": "Death Valley National Park",
+          "type": "Point",
+          "coordinates": [-117.07399, 36.501435],
+          "day": 6
+        }
+      ],
+      "guides": ["6145372fab7ad80654e0cec9"]
+      },
+      {
+        "startLocation": {
+          "description": "Miami, USA",
+          "type": "Point",
+          "coordinates": [-80.185942, 25.774772],
+          "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+        },
+        "id": 4,
+        "nameProduct": "diseño palmera",
+        "color": "blue",
+        "size": "L",
+       "price": "6.50",
+       "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices.",
+       "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2973",
+          "description": "Natural Bridges National Monument",
+          "type": "Point",
+          "coordinates": [-109.99953, 37.629017],
+          "day": 1
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2972",
+          "description": "Horseshoe Bend",
+          "type": "Point",
+          "coordinates": [-111.50954, 36.883269],
+          "day": 3
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2971",
+          "description": "Death Valley National Park",
+          "type": "Point",
+          "coordinates": [-117.07399, 36.501435],
+          "day": 6
+        }
+      ],
+      "guides": ["6145372fab7ad80654e0cec9"]
+      },
+      {   "startLocation": {
+        "description": "Miami, USA",
+        "type": "Point",
+        "coordinates": [-80.185942, 25.774772],
+        "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+      },
+        "id": 5,
+        "nameProduct": "diseño ola",
+        "color": "blue",
+        "size": "L",
+       "price": "6.50",
+       "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices.",
+       "locations": [
+        {
+          "_id": "5c88fa8cf4afda39709c2973",
+          "description": "Natural Bridges National Monument",
+          "type": "Point",
+          "coordinates": [-109.99953, 37.629017],
+          "day": 1
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2972",
+          "description": "Horseshoe Bend",
+          "type": "Point",
+          "coordinates": [-111.50954, 36.883269],
+          "day": 3
+        },
+        {
+          "_id": "5c88fa8cf4afda39709c2971",
+          "description": "Death Valley National Park",
+          "type": "Point",
+          "coordinates": [-117.07399, 36.501435],
+          "day": 6
+        }
+      ],
+      "guides": ["6145372fab7ad80654e0cec9"]
+      }
+    
+         
+   
+  ]
+  

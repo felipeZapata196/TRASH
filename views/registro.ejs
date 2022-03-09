@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <%- include('head'); -%>
+     <link href="css/login.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <%- include('header'); -%>
+
+    
+    <main class="form-signin" style="margin-top: 2.5rem">
+
+    <form class="signUp">
+      
+        <h1 class="h3 mb-3 fw-normal" >Registro</h1>
+    
+        <div class="form-floating">
+          <input type="text" name="name" class="form-control" placeholder="nombre" id="name" >
+          <label for="floatingInput">name</label>
+        </div>
+
+
+        <div class="form-floating">
+            <input type="email" name="email" class="form-control" id="email" placeholder="name@example.com">
+            <label for="floatingInput">Email address</label>
+          </div>
+          <div class="form-floating">
+            <input type="password" name="password"  class="form-control" id="password" placeholder="Password">
+            <label for="floatingPassword">Password</label>
+          </div>
+
+         
+          <div class="form-floating">
+            <input type="password" name="passwordConfirm" class="form-control"  placeholder="password" id="passwordConfirm">
+            <label for="floatingInput">confirm password</label>
+          </div>
+
+         
+    
+        <button class="w-100 btn btn-lg btn-primary">Registrarse</button>
+       
+      </form>
+    </main>
+  
+
+  <%- include('footer'); -%>
+
+  
+  
+  </body>
+</html> 

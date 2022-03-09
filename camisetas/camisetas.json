@@ -1,0 +1,119 @@
+[
+    {
+        "productType": "camiseta",
+        "model": "camiseta negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "16.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/camiseta1.jpg"
+        
+        
+    },
+    {
+        "productType": "camiseta",
+        "model": "camiseta diseño blanco",
+        "color": "blanco",
+        "talla": "L",
+        "price": "22.50",
+        "rating": "5",
+        "marca": "Bagouve",
+        "imageCover": "../images/products/camiseta2.jpg"
+        
+        
+    }, {
+        "productType": "camiseta",
+        "model": "Camiseta azul fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "29.90",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/camiseta3.jpg"
+        
+        
+    },
+    {
+        "productType": "camiseta",
+        "model": "camiseta granate fit basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "16.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/camiseta4.jpg"
+        
+        
+    }, {
+        "productType": "camiseta",
+        "model": "camiseta regular fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Pull and Bear",
+
+        "imageCover": "../images/products/camiseta5.jpg"
+        
+        
+    }, {
+        "productType": "camiseta",
+        "model": "camiseta blanca relaxed fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/camiseta6.jpg"
+        
+        
+    },{
+        "productType": "camiseta",
+        "model": "camiseta negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "34.90",
+        "rating": "5",
+        "marca": "Aime",
+        "imageCover": "../images/products/camiseta7.jpg"
+        
+        
+    },{
+        "productType": "camiseta",
+        "model": "camiseta azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "34.50",
+        "rating": "5",
+        "marca": "Aime",
+        "imageCover": "../images/products/camiseta8.jpg"
+        
+        
+    },{
+        "productType": "camiseta",
+        "model": "camiseta regular fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "54.90",
+        "rating": "5",
+        "marca": "Aime",
+        "imageCover": "../images/products/camiseta9.jpg"
+        
+        
+    },{
+        "productType": "camiseta",
+        "model": "Camiseta blanca basica",
+        "color": "blanco",
+        "talla": "L",
+        "price": "14.50",
+        "rating": "5",
+        "marca": "Aime",
+        "imageCover": "../images/products/camiseta10.jpg"
+        
+        
+    }
+
+
+
+]

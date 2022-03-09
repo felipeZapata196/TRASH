@@ -1,0 +1,140 @@
+[
+    {
+        "productType": "pantalones",
+        "model": "Pantalones negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "26.10",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon1.jpg"
+        
+        
+    },
+    {
+        "productType": "pantalones",
+        "model": "Pantalones blanca basica",
+        "color": "blanco",
+        "talla": "L",
+        "price": "42.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon2.jpg"
+        
+        
+    }, {
+        "productType": "pantalones",
+        "model": "Pantalones azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "44.50",
+        "rating": "5",
+        "marca": "ASOS",
+        "imageCover": "../images/products/pantalon3.jpg"
+        
+        
+    },
+    {
+        "productType": "pantalones",
+        "model": "Pantalones granate fit basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "36.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon4.jpg"
+        
+        
+    }, {
+        "productType": "pantalones",
+        "model": "Pantalones regular fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "44",
+        "rating": "5",
+        "marca": "ASOS",
+        "imageCover": "../images/products/pantalon5.jpg"
+        
+        
+    }, {
+        "productType": "pantalones",
+        "model": "pantalones blanca relaxed fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon6.jpg"
+        
+        
+    },{
+        "productType": "pantalones",
+        "model": "Pantalones negra estampada",
+        "color": "blue",
+        "talla": "L",
+        "price": "36.10",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon7.jpg"
+        
+        
+    },{
+        "productType": "pantalones",
+        "model": "Pantalones azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "23.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon8.jpg"
+        
+        
+    },{
+        "productType": "pantalones",
+        "model": "Pantalones regular fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "24.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon9.jpg"
+        
+        
+    },{
+        "productType": "pantalones",
+        "model": "Pantalones blanca basica",
+        "color": "blanco",
+        "talla": "L",
+        "price": "24.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon10.jpg"
+        
+        
+    }, {
+        "productType": "pantalones",
+        "model": "Pantalones azul basica",
+        "color": "blue",
+        "talla": "L",
+        "price": "14.90",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon11.jpg"
+        
+        
+    },{
+        "productType": "pantalones",
+        "model": "Pantalones blanca relaxed fit",
+        "color": "blue",
+        "talla": "L",
+        "price": "46.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/pantalon12.jpg"
+        
+        
+    }
+
+
+
+]

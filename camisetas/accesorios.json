@@ -1,0 +1,140 @@
+[
+    {
+        "productType": "accesorios",
+        "model": "Anillo doble",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio1.jpg"
+        
+        
+    },
+    {
+        "productType": "accesorios",
+        "model": "Anillo sello unisex",
+        "color": "blanco",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio2.jpg"
+        
+        
+    }, {
+        "productType": "accesorios",
+        "model": "Anillo hombre",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio3.jpg"
+        
+        
+    },
+    {
+        "productType": "accesorios",
+        "model": "Anillo mujer",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio4.jpg"
+        
+        
+    }, {
+        "productType": "accesorios",
+        "model": "Anillo hombre",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio5.jpg"
+        
+        
+    }, {
+        "productType": "accesorios",
+        "model": "Anillo",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio6.jpg"
+        
+        
+    },{
+        "productType": "accesorios",
+        "model": "Sello",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio7.jpg"
+        
+        
+    },{
+        "productType": "accesorios",
+        "model": "Sello mujer",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio8.jpg"
+        
+        
+    },{
+        "productType": "accesorios",
+        "model": "Accesorio unisex",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio9.jpg"
+        
+        
+    },{
+        "productType": "accesorios",
+        "model": "Anillo mujer",
+        "color": "blanco",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio10.jpg"
+        
+        
+    }, {
+        "productType": "accesorios",
+        "model": "Anillo",
+        "color": "blue",
+        "talla": "L",
+        "price": "4.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio11.jpg"
+        
+        
+    },{
+        "productType": "accesorios",
+        "model": "Sello unisex",
+        "color": "blue",
+        "talla": "L",
+        "price": "6.50",
+        "rating": "5",
+        "marca": "Zara",
+        "imageCover": "../images/products/accesorio12.jpg"
+        
+        
+    }
+
+
+
+]
