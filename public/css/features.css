@@ -605,3 +605,33 @@ body {
 .container-product {
   margin-left: 2rem;
 }
+
+.col-iz {
+  width: 25%;
+  height: 80vh;
+  display: inline-block;
+  padding-top: 0;
+}
+.col-centro {
+  width: 40%;
+  height: 80vh;
+
+  display: inline-block;
+}
+.col-derecha {
+  width: 35%;
+  height: 80vh;
+  display: inline-block;
+}
+
+.containter-producto {
+  max-height: 80%;
+}
+
+.info-producto {
+  padding: 10rem 5rem;
+}
+.compra-producto {
+  padding: 5rem;
+  padding-top: 10rem;
+}

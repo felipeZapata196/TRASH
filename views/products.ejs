@@ -24,21 +24,23 @@
 <div class="row"  >
 
   <% productList.forEach(function(product) { %>
-   
+    
   <div class="col3"  style="margin-bottom: 10rem; ">
+    <a class="enlace" tabindex="-1" href="/<%= product.id %>" >
 
     <div style="width: 100%; height:100%;">
    <img  class="img-products" src="<%= product.imageCover %>" width="100%" /> 
   </div>
+
     <div class="product-title" >
-      <a class="enlace" tabindex="-1" href="/#" >
+    
        
       <h2 class="h3" style="text-align: center; font-size: 0.8rem; color: darkgray;">  <%=product.model%>  </h2>
-    </a>
+  
         <h6 style=" text-align:  center; font-size: 0.9rem; font-weight: bolder;"><%=product.price%> €</h6>
         <h6 style="color: grey; text-align:  center; font-size: 0.6rem;"><%=product.talla%></h6>
     </div>
-
+  </a>
 </div>
 
   <% }); %>

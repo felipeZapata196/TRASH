@@ -97,23 +97,7 @@ exports.pantalones = async(req, res) => {
 
 
 
-exports.pantalon = async(req, res) => {
-  const pantalon=  await Product.findById(req.params.id)
 
-
-  if(!pantalon){
-    return next(new AppError('no se encuentra el producto', 404));
-  }
-
-  
-
-  res.render('pantalon',{
-    product: pantalon,
-    user: res.locals.user
-      
-  } );
-
-};
 
 
 
@@ -137,23 +121,7 @@ exports.sudaderas = async(req, res) => {
 
 }; 
 
-exports.sudadera = async(req, res) => {
-  const sudadera=  await Product.findById(req.params.id)
 
-
-  if(!sudadera){
-    return next(new AppError('no se encuentra el producto', 404));
-  }
-
-  
-
-  res.render('sudadera',{
-    product: sudadera,
-    user: res.locals.user
-      
-  } );
-
-};
 
 
 
@@ -175,23 +143,6 @@ exports.accesorios = async(req, res) => {
 
 }; 
 
-exports.accesorio = async(req, res) => {
-  const accesorio=  await Product.findById(req.params.id)
-
-
-  if(!accesorio){
-    return next(new AppError('no se encuentra el producto', 404));
-  }
-
-  
-
-  res.render('accesorio',{
-    product: accesorio,
-    user: res.locals.user
-      
-  } );
-
-};
 
 
 exports.registro = async(req, res) => {

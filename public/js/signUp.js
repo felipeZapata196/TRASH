@@ -11,7 +11,7 @@ export const signUp = async (name, email, password, passwordConfirm) => {
     try{
     const res= await axios({
         method: 'POST',
-        url: 'http://localhost:3000/home/users/signup',
+        url: '/home/users/signup',
         data: {
             name,
             email,

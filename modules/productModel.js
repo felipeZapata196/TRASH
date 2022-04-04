@@ -9,11 +9,12 @@ const ProductSchema = new mongoose.Schema(
 
         productType: {
             type: String,
-            required: [true, 'A tour must have a price']
+            required: [true, 'A product must have a price']
         },
+        slug: String,
         model: {
             type: String,
-            required: [true, 'A tour must have a price']
+            required: [true, 'A product must have a price']
         },
         color:{
             type: String
@@ -23,9 +24,12 @@ const ProductSchema = new mongoose.Schema(
         },
         price: {
             type: Number,
-            required: [true, 'A tour must have a price']
+            required: [true, 'A product must have a price']
         },
         rating: {
+            type: Number
+        },
+        quantity: {
             type: Number
         },
         marca: {
@@ -33,7 +37,7 @@ const ProductSchema = new mongoose.Schema(
         },
         imageCover: {
             type: String,
-            required: [true, 'A tour must have a cover image']
+            required: [true, 'A product must have a cover image']
         },
         images: [String],
         ratingsAverage: {
@@ -64,8 +68,13 @@ const ProductSchema = new mongoose.Schema(
 
 
 ProductSchema.index({price: 1})
+ProductSchema.index({slug:1});
 //lo de los indices lo que hace es que hace las busquedas más rapidas.
 
+ProductSchema.pre('save', function(next) {
+    this.slug = slugify(this.model, { lower: true });
+    next();
+  });
 
 // esto se hace con virtual para que no se guarde la info de la base de datos de las reviews en la de products. 
 //si así se hiciera, si se hicieran muchas reviews se podría sobrecargar la base de datos.
